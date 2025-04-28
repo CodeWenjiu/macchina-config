@@ -1,5 +1,5 @@
 # Install 
 ```bash
 cargo install macchina
-git clone <url> ~/.config/macchina
+git clone git@github.com:TimeKeepper/macchina-config.git ~/.config/macchina
 ```
